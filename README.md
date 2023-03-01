@@ -1,2 +1,2 @@
 # streamlit_practice
-for backup
+- streamlit run APP_NAME.py
